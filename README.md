@@ -1,11 +1,11 @@
-> **Top Cyber Security Companies in Pakistan**
+ **Top Cyber Security Companies in Pakistan**
 
 This repository contains an Excel file listing the top cybersecurity companies in Pakistan. The dataset includes key information about each company, such as the company name, the LinkedIn profiles of the CEO and HR, location, city, and company website.
 
-> **Overview**
+ **Overview**
 The aim of this project is to provide a comprehensive resource for anyone interested in the cybersecurity landscape in Pakistan. This dataset can be useful for job seekers, researchers, and industry professionals looking to connect with leading companies in the field.
 
-> **Dataset Details**
+ **Dataset Details**
 The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the following columns:
 
 **Company Name: **The name of the cybersecurity company.
@@ -15,17 +15,17 @@ The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the followi
 **City:** The city where the company is located.
 **Company Website:** The official website of the company.
 
->  **How to Use**
+  **How to Use**
 **Clone the Repository:** Clone this repository to your local machine using the following command:
 
 bash
 Copy code
 git clone https://github.com/Khadijaz8/top-cyber-security-companies-pakistan.git
-**Open the Excel File: **Navigate to the cloned directory and open the Top_Cyber_Security_Companies_Pakistan.xlsx file using any spreadsheet application such as Microsoft Excel, Google Sheets, or LibreOffice Calc.
+**Open the Excel File:** Navigate to the cloned directory and open the Top_Cyber_Security_Companies_Pakistan.xlsx file using any spreadsheet application such as Microsoft Excel, Google Sheets, or LibreOffice Calc.
 
 **Explore the Data:** Use the dataset to explore the top cybersecurity companies in Pakistan, visit their websites, and connect with their CEOs and HR representatives on LinkedIn.
 
-> **Contributing**
+ **Contributing**
 We welcome contributions to improve this dataset. If you know of any additional top cybersecurity companies in Pakistan or have updates to the existing data, please follow these steps:
 
 **Fork the Repository:** Click the "Fork" button on the top right of this repository's GitHub page.
