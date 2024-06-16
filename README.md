@@ -6,7 +6,7 @@ This repository contains an Excel file listing the top cybersecurity companies i
 The aim of this project is to provide a comprehensive resource for anyone interested in the cybersecurity landscape in Pakistan. This dataset can be useful for job seekers, researchers, and industry professionals looking to connect with leading companies in the field.
 
  **Dataset Details**
-The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the following columns:
+The Excel file (Top_Cybersecurity_Companies_in_Pakistan.xlsx) includes the following columns:
 
 **1) Company Name:** The name of the cybersecurity company.
 
@@ -25,8 +25,8 @@ The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the followi
 
 bash
 Copy code
-git clone https://github.com/Khadijaz8/top-cyber-security-companies-pakistan.git
-**Open the Excel File:** Navigate to the cloned directory and open the Top_Cyber_Security_Companies_Pakistan.xlsx file using any spreadsheet application such as Microsoft Excel, Google Sheets, or LibreOffice Calc.
+git clone https://github.com/Khadijaz8/top-Cybersecurity-Companies-in-Pakistan.git
+**Open the Excel File:** Navigate to the cloned directory and open the Top_CyberSecurity_Companies_in_Pakistan.xlsx file using any spreadsheet application such as Microsoft Excel, Google Sheets, or LibreOffice Calc.
 
 **Explore the Data:** Use the dataset to explore the top cybersecurity companies in Pakistan, visit their websites, and connect with their CEOs and HR representatives on LinkedIn.
 
