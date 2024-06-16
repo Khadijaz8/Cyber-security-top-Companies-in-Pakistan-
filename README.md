@@ -9,10 +9,15 @@ The aim of this project is to provide a comprehensive resource for anyone intere
 The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the following columns:
 
 **1) Company Name:** The name of the cybersecurity company.
+
 **2) CEO LinkedIn Profile:** The LinkedIn profile URL of the company's CEO.
+
 **3) HR LinkedIn Profile:** The LinkedIn profile URL of the company's HR representative.
+
 **4) Location:** The physical address of the company.
+
 **5) City:** The city where the company is located.
+
 **6) Company Website:** The official website of the company.
 
   **How to Use**
