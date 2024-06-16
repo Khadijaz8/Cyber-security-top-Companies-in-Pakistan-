@@ -8,12 +8,12 @@ The aim of this project is to provide a comprehensive resource for anyone intere
  **Dataset Details**
 The Excel file (Top_Cyber_Security_Companies_Pakistan.xlsx) includes the following columns:
 
-**Company Name: **The name of the cybersecurity company.
-**CEO LinkedIn Profile:** The LinkedIn profile URL of the company's CEO.
-**HR LinkedIn Profile: **The LinkedIn profile URL of the company's HR representative.
-**Location:** The physical address of the company.
-**City:** The city where the company is located.
-**Company Website:** The official website of the company.
+**1) Company Name:** The name of the cybersecurity company.
+**2) CEO LinkedIn Profile:** The LinkedIn profile URL of the company's CEO.
+**3) HR LinkedIn Profile:** The LinkedIn profile URL of the company's HR representative.
+**4) Location:** The physical address of the company.
+**5) City:** The city where the company is located.
+**6) Company Website:** The official website of the company.
 
   **How to Use**
 **Clone the Repository:** Clone this repository to your local machine using the following command:
@@ -35,18 +35,21 @@ We welcome contributions to improve this dataset. If you know of any additional 
 bash
 Copy code
 git checkout -b update-dataset
+
 **Make Your Changes:** Update the Excel file with new or corrected information.
 
-**Commit Your Changes: **Commit your changes with a descriptive commit message:
+**Commit Your Changes:** Commit your changes with a descriptive commit message:
 
 bash
 Copy code
 git commit -m "Add/Update cybersecurity companies"
+
 **Push to Your Branch:** Push your changes to your forked repository:
 
 bash
 Copy code
 git push origin update-dataset
+
 **Submit a Pull Request:** Open a pull request to merge your changes into the main repository. Provide a detailed description of the changes you have made.
 
 **License**
